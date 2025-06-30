@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashank234509
-- 👀 I’m interested in ...cpp
-- 🌱 I’m currently learning ...cpp
+- 👀 I’m interested in ...genai,competetive programing ,game dev and machine learning 
+- 🌱 I’m currently learning ..machine learning and game dev
 - 💞️ I’m looking to collaborate on ...git hub
 - 📫 How to reach me ...shashank24521@iiitd.ac.in
 - 😄 Pronouns: ...
